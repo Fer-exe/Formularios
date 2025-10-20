@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ejercicio Formularios 2</title>
+  </head>
+  <body>
+    <form action="destino.html/registro" method="get">
+      <label for="nombre">fecha </label>
+      <input type="date" />
+    <br>
+      <label for="nombre">fecha y hora </label>
+      <input type="datetime-local" />
+    <br>
+        <label for="nombre"> correo </label>
+        <input type=""
+    </form>
+  </body>
+</html>
